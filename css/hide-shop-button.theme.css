@@ -1,0 +1,5 @@
+a[data-list-item-id="private-channels-uid_24___shop"],
+a[data-list-item-id="private-channels-uid_543___shop"]
+{
+    display: none !important;
+}
